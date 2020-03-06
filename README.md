@@ -1,3 +1,4 @@
 # ARL-Display-Metrics-and-Average-Display-Luminance
 # 
-# UNDER CONSTRUCTION
+# by Chloe Callahan-Flintoft and Chou Hung
+
